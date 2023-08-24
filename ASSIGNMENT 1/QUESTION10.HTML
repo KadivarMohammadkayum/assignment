@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Question10</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <!-- How can we club two or more rows or columns into a single row or column in an HTML
+         table? With Example. -->
+
+    <!-- We use the colspan and rowspan attribute, to merge cells in HTML. The rowspan attribute is for the number of rows a cell should merge, whereas the colspan attribute is for the number of columns a cell should merge. The attribute should be placed inside the <td> tag. -->
+
+     <table align="cenetr" width="auto" border="5px">
+
+        <tr>
+           <th>Header 1</th>
+           <th>Header 2</th>
+         </tr>
+
+       <tr>
+            <td rowspan="2">Row 1</td>
+            <td>Cell 1</td>
+       </tr>
+
+        <tr>
+           <td>Cell 2</td>
+       </tr>
+
+       <tr>
+         <td colspan="2">Row 2</td>
+       </tr>
+
+     </table>
+</table>
+</body>
+</html>
