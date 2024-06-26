@@ -1,0 +1,41 @@
+[
+    {
+        "Homeslider" : [
+            {
+                "id" : 1,
+                "suptitale" : "hello new frineds",
+                "heading1" :"Welcome Back",
+                "heading2" :"to Taycs",
+                "description1" :"Lorem ipsum dolor sit amet, consectetur adipisic",
+                "description2" :"dolor sit amet consectetur adipisicing elit.",
+                "button" : "reservation",
+                "link" :"open menu",
+                "image" :"../Images/banner-1.jpg"
+            },
+            {
+                "id" : 1,
+                "suptitale" : "hello new frineds",
+                "heading1" :"Welcome Back",
+                "heading2" :"to Taycs",
+                "description1" :"Lorem ipsum dolor sit amet, consectetur adipisic",
+                "description2" :"dolor sit amet consectetur adipisicing elit.",
+                "button" : "reservation",
+                "link" :"open menu",
+                "image" :"../Images/banner-1.jpg"
+            },
+            {
+                "id" : 1,
+                "suptitale" : "hello new frineds",
+                "heading1" :"Welcome Back",
+                "heading2" :"to Taycs",
+                "description1" :"Lorem ipsum dolor sit amet, consectetur adipisic",
+                "description2" :"dolor sit amet consectetur adipisicing elit.",
+                "button" : "reservation",
+                "link" :"open menu",
+                "image" :"../Images/banner-1.jpg"
+            }
+        ]
+
+    }
+]
+
